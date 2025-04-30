@@ -6,7 +6,7 @@ title: My CV
 ## 🎓 Education
 
 **RWTH Aachen University**  
-*B.Sc. Mechanical Engineering, Specialization Chemical Engineering*  
+*B.Sc. Mechanical Engineering, Specialization Process Systems Engineering*  
 Aachen, Germany — *Oct 2020 – Present*  
 **GPA:** 2.0 / 1.0 (1.0 best - 5.0 worst)
 
@@ -68,16 +68,3 @@ Aachen, Germany — *Mar – Oct 2022*
 **Programming:** Python, Java, Matlab, Modelica  
 **Languages:** Indonesian (native), English (C1), German (C1)  
 **Tools:** Autodesk Inventor, Fusion 360, Siemens NX, Microsoft Office, LaTeX, Git
-
----
-
-## 📄 References
-
-- **Dr. Eike Cramer** – Senior Researcher, RWTH AVT.SVT  
-  📧 eike.cramer@avt.rwth-aachen.de
-
-- **Dr. Adrian Caspari** – Project Manager, Siemens Process Automation  
-  📧 adrian.caspari@siemens.com
-
-- **Lazar Bochvarov** – Research Associate, Fraunhofer ILT  
-  📧 lazar.bochvarov@ilt.fraunhofer.de
