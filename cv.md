@@ -30,13 +30,12 @@ Aachen, Germany — *Mar 2025 – Present*
 Karlsruhe, Germany — *Nov 2024 – Feb 2025*  
 - Developed an operation assistance system based on a finite state machine and ML-based process analytics.  
 - Integrated software with distributed control system using OPC UA.  
-- Used Git and SQLite.
 
 **RWTH Chair for Process System Engineering (AVT.SVT)**  
 *Undergraduate Research and Teaching Assistant*  
 Aachen, Germany — *Jan – Oct 2024*  
 - Researched nonlinear PDEs of laminar falling film absorption using orthogonal collocation (Modelica).  
-- Same teaching duties as above.
+- Teaching assistant for “Simulation Methods in Mechanical Engineering”: tutoring Modelica and Matlab, systems theory, and numerical simulation; supervised weekly exercises.
 
 **Fraunhofer Institute for Laser Technology (ILT)**  
 *Undergraduate Research Assistant*  
@@ -44,7 +43,7 @@ Aachen, Germany — *Oct 2022 – Aug 2023*
 - System identification with hardware-in-the-loop.  
 - Thermal, mechanical, and electrical modeling in Matlab/Simulink.  
 - Experience with lasers, optics, and thermal imaging.  
-- Co-authored thesis on thermal modeling of planar galvanometer scanner for microsurgeries.
+- Co-authored a project thesis on thermal modeling of planar galvanometer scanner for microsurgeries.
 
 **RWTH Chair for Data Science in Mechanical Engineering (DSME)**  
 *Undergraduate Teaching Assistant*  
@@ -65,6 +64,6 @@ Aachen, Germany — *Mar – Oct 2022*
 
 ## 🛠 Technical Skills
 
-**Programming:** Python, Java, Matlab, Modelica  
+**Programming:** Python, Java, Matlab, Modelica, Julia  
 **Languages:** Indonesian (native), English (C1), German (C1)  
 **Tools:** Autodesk Inventor, Fusion 360, Siemens NX, Microsoft Office, LaTeX, Git
