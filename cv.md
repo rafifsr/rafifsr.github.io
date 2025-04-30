@@ -1,3 +1,8 @@
+---
+layout: page
+title: My CV
+---
+
 ## 🎓 Education
 
 **RWTH Aachen University**  
