@@ -2,10 +2,7 @@
 layout: page
 title: About me
 ---
-
-Hi! My name is Rafif, and welcome to my website!
-
-![My picture](/assets/img/portraityosemite.png)
+![My picture](/assets/img/portraityosemite.png){: .mx-auto.d-block :}
 
 ### My story
 - I am an undergraduate student at RWTH Aachen University in Germany, majoring in mechanical engineering and specializing in process systems engineering.
