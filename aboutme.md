@@ -5,6 +5,8 @@ title: About me
 
 Hi! My name is Rafif, and welcome to my website!
 
+![My picture](/assets/img/portraityosemite.png)
+
 ### My story
 - I am an undergraduate student at RWTH Aachen University in Germany, majoring in mechanical engineering and specializing in process systems engineering.
 - I come from Indonesia and I have lived in Germany since 2020.
