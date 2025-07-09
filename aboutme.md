@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-![My picture](/assets/img/portocropped.jpeg){ width = 500px }{: .mx-auto.d-block :}
+![My picture](/assets/img/portocropped.jpeg){ width = 300px }
 
 ### My story
 - I am an undergraduate student at RWTH Aachen University in Germany, majoring in mechanical engineering and specializing in process systems engineering.
